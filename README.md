@@ -61,3 +61,8 @@ Perks:
 2. Size: `git cat-file -s 3b18`
 3. Hash object: `echo 'Hello world'  | git hash-object --stdin`
 4. Limited file size
+
+
+## Reference
+1. [Git Internals](https://git-scm.com/book/en/v1/Git-Internals)
+2. [Git Internals - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)

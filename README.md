@@ -5,6 +5,10 @@ Author: Lin Dong
 Date: Sat Feb 27 15:54:32 PST 2016
 
 Place: CMU-SV
+## Note
+
+This is NOT about how to use git or github, it is about how git is designed and used internally
+
 ## Commonly used git commands
 
 * init

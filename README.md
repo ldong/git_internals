@@ -70,3 +70,4 @@ Perks:
 ## Reference
 1. [Git Internals](https://git-scm.com/book/en/v1/Git-Internals)
 2. [Git Internals - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
+3. Special thanks to *DiFan Hong*
